@@ -13,9 +13,6 @@ Aplicație Java Swing pentru rezervări la clinică (login admin/pacient, CRUD d
 ## Tehnologii
 Java, Swing, Maven, JDBC, Apache Derby (embedded), JUnit 5
 
-## Conturi demo
-- Admin: `admin@clinic.ro` / `admin`
-- Pacient: `pacient@clinic.ro` / `1234`
 
 ---
 
